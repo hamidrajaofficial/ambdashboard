@@ -1,0 +1,8 @@
+{
+  "name": "Remix AMIT Digital Marketing \u0026 Lead Intelligence",
+  "description": "AMIT healthcare marketing attribution, multi-channel traffic performance, pipeline lead tracking, and cross-team routing dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
